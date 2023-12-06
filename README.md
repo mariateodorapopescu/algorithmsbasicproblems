@@ -8,7 +8,7 @@ Welcome to the **Algorithms Problem Set** repository! Here, you'll find solution
 You are tasked with finding the minimum cost to ferry all cars across the river using ferries with varying costs and capacities. The solution involves a binary search algorithm and a greedy approach.
 
 ### Implementation
-The code utilizes a binary search to find the optimal cost, considering the ferry's capacity and cost. It efficiently simulates ferry crossings using a greedy algorithm. Detailed explanations and modifications are provided based on ChatGPT prompts.
+The code utilizes a binary search to find the optimal cost, considering the ferry's capacity and cost. It efficiently simulates ferry crossings using a greedy algorithm. 
 
 ## 2. NoStory
 
@@ -24,7 +24,7 @@ The algorithm uses a greedy approach, iteratively swapping the minimum from arra
 The task involves optimizing the execution time of a knapsack problem. You'll modify existing code to efficiently solve a problem related to choosing sushi plates based on weights and values.
 
 ### Implementation
-ChatGPT provides a prompt to optimize the given code. The resulting algorithm uses dynamic programming to find the maximum value while considering weights and values of sushi plates.
+The resulting algorithm uses dynamic programming to find the maximum value while considering weights and values of sushi plates.
 
 ## 4. Semnale
 
