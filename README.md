@@ -38,4 +38,4 @@ The solution involves a tridimensional matrix to efficiently count the signals b
 
 Each problem's solution is contained in a separate folder. You can explore the code and comments within each file for a comprehensive understanding of the implementation.
 
-Feel free to reach out if you have any questions or suggestions for improvement. Happy coding! 🚀👩‍💻👨‍💻
+Feel free to reach out if you have any questions or suggestions for improvement.
